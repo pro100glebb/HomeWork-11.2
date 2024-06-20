@@ -5,3 +5,5 @@ def upp_string(str):
 "функция для смены регистра заглавных букв!!!"
 def upp_first_letter (str):
     print(str.title())
+
+upp_string("ну привет")
