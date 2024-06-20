@@ -1,3 +1,4 @@
+'''функция для смены регистра'''
 def upp_string(str):
     print(str.upper())
 
