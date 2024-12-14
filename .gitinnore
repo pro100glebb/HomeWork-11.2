@@ -1,0 +1,6 @@
+venv
+.idea
+*.pys
+__pycache__
+wejhfb
+
